@@ -1,0 +1,25 @@
+.container-3
+bh  {
+    text-align: center;
+    margin: 10px;
+    border: 2px solid black ;
+    padding: 10px;
+}
+.flex-box-rps{
+border: 2px solid black;
+padding: 10px;
+margin: 10px;
+flex-wrap: wrap;
+display: flex;
+justify-content: space-around;
+flex-direction: row;
+}
+
+body{
+    background-color: royalblue;
+}
+.flex-box-rps img:hover
+{
+    box-shadow: 0px 10px 50px rgba(39,498,45);
+    
+}
